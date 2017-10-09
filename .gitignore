@@ -1,0 +1,5 @@
+.idea
+*.pyc
+*.pyi
+developteca/db.sqlite3
+Thumbs
